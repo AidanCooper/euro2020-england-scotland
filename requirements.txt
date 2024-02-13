@@ -3,6 +3,6 @@ matplotlib==3.4.1
 numpy==1.22.0
 pandas==1.2.4
 pingouin==0.3.12
-scikit-learn==0.24.1
+scikit-learn==1.0.1
 scipy==1.10.0
 statsmodels==0.12.2
